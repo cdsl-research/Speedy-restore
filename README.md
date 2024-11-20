@@ -26,7 +26,7 @@ Python3 のインストール
 
 
 ## ファイル構成
-.py
+transfer_time.py
 データサイズの入力に基づいて転送時間を計算し、シェルスクリプトを呼び出します。
 
 adjust_rsync_speed.sh
