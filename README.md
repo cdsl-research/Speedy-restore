@@ -49,5 +49,5 @@ adjust_rsync_speed.sh
 rsync を制限付きで再開します (制限率: 50%)...
 sending incremental file list
 file1
-     15GB 100%   50.00MB/s    0:02:58 (xfr#1, to-chk=0/1)
+     15GB 100%   52.34MB/s    0:02:58 (xfr#1, to-chk=0/1)
 ```
