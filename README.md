@@ -38,16 +38,16 @@ adjust_rsync_speed.sh
 
 ## 実行結果
 ```
-データサイズ (GB) を入力してください: 50
-50GB の予測転送時間: 7:41
-許容転送時間 (基準時間の38%増し): 10:37
+データサイズ (GB) を入力してください: 15
+15GB の予測転送時間: 2:18
+許容転送時間 (基準時間の38%増し): 3:10
 制限率: 50%
+```
+
+```
 現在の rsync プロセスを停止しています...
 rsync を制限付きで再開します (制限率: 50%)...
 sending incremental file list
 file1
-     10,485,760 100%   50.00MB/s    0:00:00 (xfr#1, to-chk=0/1)
-
-sent 10,485,760 bytes  received 0 bytes  5,242,880.00 bytes/sec
-total size is 10,485,760  speedup is 1.00
+     15GB 100%   50.00MB/s    0:02:58 (xfr#1, to-chk=0/1)
 ```
