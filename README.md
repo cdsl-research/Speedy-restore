@@ -39,7 +39,7 @@ execute_rsync.shを実行すると、以下のプロセスが順次行われま�
 - 計算された転送速度を使用して、rsyncでファイルが転送されます。進捗状況が表示されます。
 
 ## 実行結果＿
-![S__5087240](https://github.com/user-attachments/assets/11cbd7de-07b3-4084-bcec-eb49c23df989)
+
 
 ## 注意事項
 - 実行時に適切な権限でスクリプトを操作してください。
